@@ -1,0 +1,76 @@
+{
+  "video_url": "https://www.youtube.com/shorts/l-44uSfqYI4",
+  "analysis_time": "2025-12-08 22:41:16",
+  "pain_points": [
+    {
+      "description": "内容质量: 不完整",
+      "category": "内容质量",
+      "frequency": 1,
+      "severity": 1.0,
+      "related_comments_count": 1
+    },
+    {
+      "description": "内容质量: 不够",
+      "category": "内容质量",
+      "frequency": 1,
+      "severity": 1.0,
+      "related_comments_count": 1
+    },
+    {
+      "description": "内容质量: 跳过",
+      "category": "内容质量",
+      "frequency": 1,
+      "severity": 1.0,
+      "related_comments_count": 1
+    },
+    {
+      "description": "负面情绪: 烦",
+      "category": "负面情绪",
+      "frequency": 1,
+      "severity": 1.0,
+      "related_comments_count": 1
+    },
+    {
+      "description": "内容质量: 缺少",
+      "category": "内容质量",
+      "frequency": 1,
+      "severity": 1.0,
+      "related_comments_count": 1
+    },
+    {
+      "description": "功能需求: 希望",
+      "category": "功能需求",
+      "frequency": 3,
+      "severity": 0.875,
+      "related_comments_count": 3
+    },
+    {
+      "description": "用户体验: 字幕",
+      "category": "用户体验",
+      "frequency": 1,
+      "severity": 0.75,
+      "related_comments_count": 1
+    },
+    {
+      "description": "用户体验: 广告",
+      "category": "用户体验",
+      "frequency": 1,
+      "severity": 0.75,
+      "related_comments_count": 1
+    },
+    {
+      "description": "功能需求: 需要",
+      "category": "功能需求",
+      "frequency": 1,
+      "severity": 0.625,
+      "related_comments_count": 1
+    },
+    {
+      "description": "教学节奏: 跟不上",
+      "category": "教学节奏",
+      "frequency": 1,
+      "severity": 0.5,
+      "related_comments_count": 1
+    }
+  ]
+}
